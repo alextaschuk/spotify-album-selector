@@ -17,5 +17,5 @@ A locally-ran program that reads your saved albums from your Spotify account and
 - Wait a couple of seconds, and an album will be chosen and printed into the terminal. 
 
 **Notes:**
-- When you run the program, a `.cache` file will be created. This stores your access token, the token type, when it expires (valid for 1 hour), and the refresh token.
+- When you run the program, a `.cache` file will be created. This stores your access token, the token type, when it expires, and the refresh token.
 - If you want to remove access to the program, visit [your account settings page](https://www.spotify.com/us/account/apps/) and find the app that mactches the name of the app you created on Spotify's developer website (For example, if my app is called "Album Selector", there would be an app on my account settings page also called "Album Selector). Click "Remove Access".
