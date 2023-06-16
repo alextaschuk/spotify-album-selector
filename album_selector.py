@@ -8,12 +8,10 @@ client_secret = ['CLIEN_SECRET']
 redirect_uri = 'http://google.com/'
 scope = 'user-library-read'
 
-
 def get_album_names(results):
     for item in results['items']:
         album = item['album']
         album_names.append(album['name'])
-
 
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id=client_id,
                      client_secret=client_secret, redirect_uri=redirect_uri, scope=scope))
