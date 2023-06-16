@@ -2,7 +2,7 @@
 A locally-ran program that reads your saved albums from your Spotify account and chooses one at random for you to listen to.
 
 **How to set up:**
-- _Python is a pre-req for any of this to work. Make sure it is installed._
+- _Python is a pre-req for any of this to work._
 1. Install the spotipy library by running `pip install spotipy` for Mac or `py -m pip install spotipy` for Windows in your terminal. If that doesn't work, [read this](https://pypi.org/project/spotipy/).
 2. Log in to [Spotify's developer website](https://developer.spotify.com/) and click on your profile in the top right corner of your screen
 3. Select 'Create App' and set the app name and description to whatever you want.
