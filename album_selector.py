@@ -3,7 +3,7 @@ from spotipy.oauth2 import SpotifyOAuth
 import random
 
 client_id = ['CLIENT_ID']
-client_secret = ['CLIEN_SECRET']
+client_secret = ['CLIENT_SECRET']
 
 redirect_uri = 'http://google.com/'
 scope = 'user-library-read'
