@@ -3,7 +3,7 @@ A locally-ran program that reads your saved albums from your Spotify account and
 
 **How to set up:**
 - _Python3 is a pre-req for this to work._
-1. Download `album_selector.py` from this repository.
+1. Download the `album_selector.py` file from this repository.
 2. Install the spotipy library by running `pip install spotipy` for Mac or `py -m pip install spotipy` for Windows in your terminal. If you're having trouble, [read this](https://pypi.org/project/spotipy/).
 3. Log in to [Spotify's developer website](https://developer.spotify.com/) and click on your profile picture in the top right corner of your screen
 4. Select 'Dashboard'.
