@@ -3,14 +3,15 @@ A locally-ran program that reads your saved albums from your Spotify account and
 
 **How to set up:**
 - _Python3 is a pre-req for any of this to work._
-1. Install the spotipy library by running `pip install spotipy` for Mac or `py -m pip install spotipy` for Windows in your terminal. If you're having trouble, [read this](https://pypi.org/project/spotipy/).
-2. Log in to [Spotify's developer website](https://developer.spotify.com/) and click on your profile picture in the top right corner of your screen
-3. Select 'Dashboard'.
-4. Select 'Create App' and set the app name and description to whatever you'd like (e.g., "Album Selector").
-5. Set the redirect uri to http://google.com/
-6. Click 'Save'.
-7. Click 'Settings'
-8. Copy your client id and client secret and replace `['CLIENT_ID']` and `['CLIENT_SECRET']` in `album_selector.py`.
+1. Download `album_selector.py` from this repository.
+2. Install the spotipy library by running `pip install spotipy` for Mac or `py -m pip install spotipy` for Windows in your terminal. If you're having trouble, [read this](https://pypi.org/project/spotipy/).
+3. Log in to [Spotify's developer website](https://developer.spotify.com/) and click on your profile picture in the top right corner of your screen
+4. Select 'Dashboard'.
+5. Select 'Create App' and set the app name and description to whatever you'd like (e.g., "Album Selector").
+6. Set the redirect uri to http://google.com/
+7. Click 'Save'.
+8. Click 'Settings'
+9. Copy your client id and client secret and replace `['CLIENT_ID']` and `['CLIENT_SECRET']` in `album_selector.py`.
 
 **How to use the program:**
 - Run the program. When it is ran for the first time, a new window will open and ask for you to authorize for the program to see some of your user data. Click "Agree". 
