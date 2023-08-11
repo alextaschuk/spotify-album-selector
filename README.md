@@ -14,6 +14,7 @@ A locally-ran program that reads your saved albums from your Spotify account and
 9. Copy your Client ID and open `album_selector.py` in a text editor (like VS Code).
 10. Replace `['CLIENT_ID']` on line 5 with the copied value in the python file.
 11. Copy your Client secret (can be viewed by selecting 'View client secret') and replace `['CLIENT_SECRET']` on line 6 with the copied value in the python file.
+12. Save the `album_selector.py`file.
 
 **How to use the program:**
 - Run the program. When it is ran for the first time, a new window will open and ask for you to authorize for the program to see some of your user data. Click "Agree". 
