@@ -6,7 +6,7 @@ A locally-ran program that reads your saved albums from your Spotify account and
 1. Install the spotipy library by running `pip install spotipy` for Mac or `py -m pip install spotipy` for Windows in your terminal. If you're having trouble, [read this](https://pypi.org/project/spotipy/).
 2. Log in to [Spotify's developer website](https://developer.spotify.com/) and click on your profile picture in the top right corner of your screen
 3. Select 'Dashboard'.
-4. Select 'Create App' and set the app name and description to whatever you want (e.g., "Random Album Selector").
+4. Select 'Create App' and set the app name and description to whatever you want (e.g., "Album Selector").
 5. Set the redirect uri to http://google.com/
 6. Click 'Save'.
 7. Click 'Settings'
