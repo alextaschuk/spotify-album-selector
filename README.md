@@ -1,5 +1,5 @@
 # Spotify-Random-Album-Selector
-A locally-ran program that reads your saved albums from your Spotify account and chooses one at random for you to listen to.
+A locally-ran program that reads the saved albums from your Spotify account and chooses one at random for you to listen to.
 
 **How to set up:**
 - _Python3 is a pre-req for this to work._
