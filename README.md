@@ -17,7 +17,7 @@ A locally-ran program that reads your saved albums from your Spotify account and
 12. Save the `album_selector.py`file.
 
 **How to use the program:**
-- Run the python file. When it is ran for the first time, a new window will open and ask for you to authorize for the program to see some of your user data. Click "Agree". 
+- Run the python file. When it is ran for the first time, a new window will open and ask for you to authorize for your app to see some of your user data. Select "Agree". 
 - You will be redirected to a Google homepage. Copy the link and paste it into your terminal and press enter. 
 - Wait a couple of seconds, and an album will be chosen and printed into the terminal. 
 
