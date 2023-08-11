@@ -24,4 +24,4 @@ A locally-ran program that reads your saved albums from your Spotify account and
 
 **Notes:**
 - When you run the program, a `.cache` file will be created. This stores your access token, the token type, when it expires, and the refresh token.
-- If you want to remove access to the program, visit [your Spotify account settings](https://www.spotify.com/us/account/apps/) and find the app that mactches the name of the app you created on Spotify's developer website (For example, if my app is called "Album Selector", there would be an app on my account settings page also called "Album Selector"). Click "Remove Access".
+- If you want to remove access to the program, visit your [Spotify account settings](https://www.spotify.com/us/account/apps/) and find the app that mactches the name of the app you created on Spotify's developer website (For example, if my app is called "Album Selector", there would be an app on my account settings page also called "Album Selector"). Click "Remove Access".
